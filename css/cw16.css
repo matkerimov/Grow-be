@@ -111,6 +111,7 @@ p {
     width: 15%;
     padding: 97px 24px;
 }
+/*-----------about------------*/
 .about{
     padding: 127px 0;
 }
@@ -124,6 +125,7 @@ p {
     line-height: 150%;
     color: #666666;
     margin: 20px 0 50px;
+    width: 483px;
 }
 .about-btn{
     font-size: 15px;
@@ -147,6 +149,11 @@ p {
 .a-bg{
     background: #FAFAFA;
 }
+/*.about-img{*/
+/*    !*padd-right: 100px;*!*/
+/*}*/
+
+/*-------------------icons-----------*/
 .icon{
     background: #FFFFFF;
 }
